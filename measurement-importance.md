@@ -1,30 +1,32 @@
-# 🧪 اندازه‌گیری
-## چرا اندازه‌گیری بایومارکرها مهمه و باید مرتب انجام بشه؟
+🌐 **English** · [فارسی](fa/measurement-importance.md)
 
-مث آپتیمال کردن فانکشنالیتی هر سیستمی، برای ارزیابی عملکرد سیستم درمقابل تغییراتی که بهش تحمیل میشه، نیازمنده دیتا هستیم تا میزان اثرگذاریش رو بشه ارزیابی کرد. </br>
-یه سری چیزا تحقیقات نشون داده ک روتین خوبین و توی گایدلاین‌های معتبری مث WHO ذکر شده. خیلی چیزهای دیگه هم در حال حاضر میزان اثرش ممکنه در هاله‌ای از ابهام باشه. بزار با یه مثالی پیش بریم:
+# 🧪 Measurement
+## Why measuring biomarkers matters, and why you should do it regularly
 
-میدونیم ک کلا ورزش خوبه و تاثیرات فوق‌العاده‌ای روی بدن داره. اما سوال پیش میاد ک چ زمانی از روز رو براش اختصاص بدیم ک بطور مثال روی کیفیت خواب تاثیر منفی نذاره. منظور همون فاصله بین آخرین سشن ورزشی و ساعت خواب شب هست. میشه اینجا Resting heart rate رو بعنوان ایندیکیتور در نظر گرفت. حالا برای عمیق‌تر شدن، باید ۳ فاز رو استارت زد:
+Like optimizing the functionality of any system, to evaluate how the system responds to the changes you impose on it, you need data — data to gauge how much impact each change actually has. </br>
+A handful of things have been shown by research to be solid routines and are noted in trusted guidelines like the WHO's. Plenty of other things, on the other hand, sit in a fog of uncertainty about how effective they actually are. Let's walk through this with an example:
 
-### ۱. اندازه‌گیری
-اینکار برای فهمیدن استیت فعلی سیستم بکار میره. اینکه همین الان اوضاع من چطوره؟ درواقع توی این فاز، بیس‌لاین مشخص میشه. توی مثالمون میشه مانیتور کردن Resting heart rate هنگام خواب.
+We know exercise, broadly, is great and has fantastic effects on the body. But a question comes up: what time of day should we set aside for it so that it doesn't, say, hurt sleep quality? In other words, the gap between your last workout session and bedtime. Here, you can take *Resting heart rate* as the indicator. Now, to go deeper, you have to kick off three phases:
+
+### 1. Measurement
+This is for understanding the current state of the system. What's the situation right now? This phase is where the baseline gets set. In our example, that means monitoring *Resting heart rate* during sleep.
 
 ![Baseline](asset/measurement-baseline.png)
 
-### ۲. مقایسه
-توی این فاز میشه رفت سراغ دیتاهای پابلیک و ولیدی ک از ریسرچ‌های دیگه وجود داره. اینجا، فاز مقایسه هست. توی مثالمون میشه مقایسه کردن Resting heart rate من موقع خواب با اوریج مردان هم سن من.
-این فاز حتی میتونه درجه وخامت یا اهمیت بایومارکر مربوطه و میزان انرژیی ک میطلبه رو هم استیمیت کرد.
+### 2. Comparison
+In this phase you go to the public, validated data that's already out there from other research. This is the comparison phase. In our example, this means comparing my own *Resting heart rate* during sleep with the average for men in my age group.
+This phase can even let you estimate how serious or important the biomarker in question is — and how much energy chasing it is going to cost.
 
 ![Baseline](asset/measurement-comparison.png)
 
-### ۳. پیشرفت
-این فاز، پایش مداوم رو شامل میشه. اینکه گروه سنی-جنسی من چه ترندی رو معمولا دنبال میکنن. حالا من تغییراتی رو اعمال میکنم و در وهله اول سعی میکنم به میانگین برسونم خودم رو. توی گام بعدی، از میانگین فراتر میرم و صرفا خودم رو با گذشتم مقایسه میکنم.
-این فاز میشه معادل پایش میزان بهبود Resting heart rate ام.
+### 3. Progress
+This phase is about continuous monitoring. What kind of trend does my age/sex group usually follow? Now I apply changes and, in the first stage, try to bring myself up to the average. In the next stage, I push past the average and start comparing myself only with my past self.
+This phase is the equivalent of tracking how much my *Resting heart rate* has improved.
 
 ![Baseline](asset/measurement-improvment.png)
 
-اینجا چند نکته برای مقدار و میزان پیشرفت مطرح میشه: </br>
-۱. من اصن تا چ حد میتونم پیشرفت کنم؟ محدودیت انسان چقدره؟ از کجا ببعد دیگه جای پیشرفت باید صرفا روی نگهداری چیزی ک هستم فوکس باشم؟ </br>
-۲. محاسبه هزینه فرصت: من برای پیشرفت، میتونم چند کار انجام بدم. مهمترین کار چی میتونه باشه؟ چقدر براش هزینه مالی و زمانی بکنم؟ آیا کارایی ک کردم، ارزش مادی و معنوی‌شو داشت؟ بعبارتی آیا هزینه فرصتش میصرفید؟ یادمون   نره ک: «دنیا دار تریدآفه!» 🤭
+A couple of notes here on the amount and pace of progress: </br>
+1. How far can I actually go? What are human limits? At what point does it stop being about more progress and start being about just maintaining what I've got? </br>
+2. Opportunity-cost math: for progress, I can do several things. What's the most important one? How much time and money should I spend on it? Was what I did worth the material and personal payoff — i.e. was the opportunity cost worth paying? Let's not forget: «the world is a tradeoff!» 🤭
 
-حالا این قضیه رو میشه به ابعاد دیگه هم بسط داد. مثلا تغییرات رژیم غذایی و دیدن اثرش توی اتریبیوت‌های خون و ....
+This whole framing can be extended to other dimensions too. For example, dietary changes and watching their effect on blood attributes, and so on.

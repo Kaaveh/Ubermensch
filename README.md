@@ -1,18 +1,20 @@
-# ابرانسان
-کلمه Übermensch، واژه‌ای آلمانیه به معنای «ابرانسان»؛ مفهومی که نخستین‌بار نیچه در کتاب "چنین گفت زرتشت" مطرحش کرد. انسانی که از چارچوب‌های متعارف عبور کرده؛ از خرافات، باورهای تحمیلی، ترس‌ها، و قالب‌های ذهنی کهن فراتر رفته و به سطحی بالاتر از آگاهی، تسلط بر خود و آزادی وجودی رسیده.
+🌐 **English** · [فارسی](fa/README.md)
 
-این ریپو، حرکتیه علمی-فلسفی برای رسیدن به سلامت کل‌نگر؛ سلامت بدن، مغز، و روان. این پویش نه‌تنها بر پایه‌ی پژوهش‌های زیست‌پزشکی و نوروساینس بنا شده، بلکه ریشه‌هایی عمیق در فلسفه شرق و غرب داره؛ از آموزه‌های بودا درباره رهایی از رنج، تا تأملات رواقیون درباره رضایت، تعادل، و زندگی سعادتمند.
-اوبرمنش تلاشیه برای رسیدن به حیات اصیل، از طریق بهینه‌سازی شاخص‌های بیوشیمیایی بدن، تغذیه، خواب، تمرینات مایندفولنس، مدیریت استرس، و درک عمیق‌تری از خود.
+# Übermensch
+*Übermensch* is a German word meaning "Overman" — a concept Nietzsche first put forward in *Thus Spoke Zarathustra*. It describes a person who has moved past conventional frameworks: past superstitions, imposed beliefs, fears, and old mental molds — and reached a higher level of awareness, self-mastery, and existential freedom.
 
-# چپترها
-- [صفرم: چرا اندازه‌گیری بایومارکرها مهمه و باید مرتب انجام بشه؟](./measurement-importance.md)
-- [ شاخص UV و سلامت بدن](./uv-index.md)
+This repo is a science-and-philosophy push toward holistic health: health of body, brain, and mind. It's built on biomedical and neuroscience research, but it also has deep roots in Eastern and Western philosophy — from the Buddha's teachings on liberation from suffering to the Stoics' reflections on contentment, balance, and the good life.
+Übermensch is an attempt at an authentic life, reached by tuning the body's biochemical markers, nutrition, sleep, mindfulness practice, stress management, and a deeper understanding of the self.
 
-# 🤝 همکاری و حمایت
-مخاطب این سند دو دسته‌اند:
-- مصرف‌کنندگان عام: کسایی که به‌دنبال یک زندگی سالم‌تر، شفاف‌تر و آگاهانه‌تر هستند.
-- متخصصین حوزه سلامت: پزشکان، پژوهشگران، مربیان ورزشی، متخصصان تغذیه و دیگر متخصصانی که می‌تونن در ارتقای این سند سهیم باشند.
+# Chapters
+- [Zero: Why measuring biomarkers matters, and why you should do it regularly](./measurement-importance.md)
+- [UV index and bodily health](./uv-index.md)
 
-اوبرمنش یک پروژه اوپن سورس هست، برای اینکه دانش، آزادانه و رایگان گسترش پیداکنه و از طرفی، هر فرد دغدغه‌مندی بتونه تو پیشرفتش نقش داشته باشه. قطعا معرفی این ریپو میتونه به شناخته شدنش خیلی کمک کنه. کانتریبیوت هرچند در حد یک کلمه هم خیلی کمک‌کننده هست و دونیشن هم میتونه گرمابخش ادامه این مسیر باشه. 🙌
+# 🤝 Collaboration & Support
+This document speaks to two audiences:
+- General readers: people looking for a healthier, clearer, more conscious life.
+- Health professionals: doctors, researchers, sports coaches, nutritionists, and other experts who can help raise the bar of this document.
 
-در صورت تمایل به همکاری، لطفا [تلگرام](https://t.me/Kaaveh_IO) بهم پیام بده.
+Übermensch is an open source project — the idea is that knowledge spreads freely, and that anyone who cares can play a part in its progress. Just sharing the repo helps a lot. Contributions — even a single word — go a long way, and donations can be the warmth that keeps this road open. 🙌
+
+If you'd like to collaborate, please reach out on [Telegram](https://t.me/Kaaveh_IO).

@@ -1,14 +1,16 @@
-# شاخص UV و سلامت بدن
+🌐 **English** · [فارسی](fa/uv-index.md)
 
-به سطح زمین، علاوه بر نور مرئی، بخشی از اشعه فرابنفش هم از خورشید دریافت میشه.
-![زمین](asset/uv-earth.png)
-این UV ها بر اساس طول موجشون به سه دسته C، B و A تقسیم میشن. UVC که قویترین طول موج رو داره و خیلی برای ما خطرناگه، توسط لایه ازون فیلتر میشه. UVB که توی رتبه بعدی قرار داره، یه بخشیش توسط اتمسفر زمین بلاک میشه. برای همین تو ارتفاعات خیلی بالا مث قله های بزرگ شدتش بیشتر دریافت میشه. و در آخر UVA هم هست ک بیشتر توی سطح زمین دریافت میشه.
-حالا، برای اندازه‌گیری میزان UVایی که بهش اکسپوز هستیم معمولا شاخصی به اسم UV Index ارائه میشه که طیفی از ۱ تا مثبت ۱۱ داره.
+# UV index and bodily health
+
+Beyond visible light, the Earth's surface also receives a portion of ultraviolet radiation from the sun.
+![Earth](asset/uv-earth.png)
+These UVs are split into three categories by wavelength: C, B, and A. UVC, which has the strongest wavelength and is very dangerous for us, gets filtered out by the ozone layer. UVB, next in line, is partly blocked by Earth's atmosphere — which is why its intensity is higher at very high altitudes, like big mountain peaks. And finally, UVA is the one that mostly reaches the Earth's surface.
+Now, to measure how much UV we're being exposed to, there's an index called the *UV Index*, which runs on a scale from 1 to 11+.
 ![UV Index](asset/uv-index.jpg)
-دغدغه اصلی این هست که اشعه UV این قدرت رو داره که به DNA سلول های پوستی آسیب بزنه. این قضیه ریسک سرطان پوست رو بدنبال داره. درواقع هرچی بیشتر به مقدار قابل توجهی از UV اکسپوز باشیم، احتمال بروز سرطان پوست هم افزایش پیدا میکنه.</br>
-طبق توصیه سازمان WHO، وقتی ایندکس زیر ۳ باشه، میشه بدون دغدغه از نور خورشید استفاده کرد. اما وقتی ایندکس از ۳ به بالا بره، نیازه از پروتکشن استفاده بشه، مث کرم ضد آفتاب، لباس ضخیم، کلاه و ... . هرچند توصیه اصلی، موندن در مکان های سربسته هست.
-پس خوبه ایندکس رو مرتب چک کرد. برای اینکار، میشه از اپ های هواشناسی روی گوشی یا سیستم استفاده کرد.
+The main concern is that UV radiation has the power to damage the DNA of skin cells. That brings the risk of skin cancer along with it. Basically, the more significant UV exposure you get, the higher the chance of developing skin cancer.</br>
+Per WHO's guidance, when the index is below 3, you can enjoy sunlight without much concern. But once the index climbs above 3, protection is needed — sunscreen, thick clothing, a hat, and so on. That said, the main recommendation is to stay indoors.
+So it's a good idea to check the index regularly. For that, you can use weather apps on your phone or computer.
 ![Apple Weather app](asset/apple-weather.png)</br>
-یه نکته خیلی خیلی مهم این هست که توی هوای ابری و حتی بارونی هم معمولا به پروتکشن نیاز میشه. درواقع ابر جلوی نور رو تا حد زیادی بگیره، ولی تا حد قابل توجهی UV ازش رد میشه. بطور مثال، این نمودار UV Index یه روز بارونی هست:
-![UV Index یه روز بارانی](asset/apple-uv-index.png)</br>
-همونطور که ذکر کرده، نیازه از ساعت ۹ صبح تا ۳ عصر، از پروتکشن توی فضای باز استفاده کرد.
+A very, very important note: even on cloudy and rainy days, protection is usually still needed. Clouds may block visible light to a large extent, but a significant amount of UV still passes through. As an example, here's the UV Index chart for a rainy day:
+![UV Index on a rainy day](asset/apple-uv-index.png)</br>
+As shown there, from 9 AM to 3 PM, protection is needed when outdoors.
